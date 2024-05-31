@@ -23,15 +23,20 @@ Here are some ideas to get you started:
   <tr>
     <td align="center" width="96">
       <a href="https://github.com/Tobee1406">
-        <img src=https://raw.githubusercontent.com/aleff-github/aleff-github/main/img/github.png width="48" height="48" />
+        <img src=https://raw.githubusercontent.com/Tobee1406/Tobee1406/main/img/github.png width="48" height="48" />
       </a>
       <br>Github
     </td>
     <td align="center" width="96">
       <a href="https://www.linkedin.com/in/tobee1406/">
-        <img src=https://raw.githubusercontent.com/aleff-github/aleff-github/main/img/linkedin.png width="48" height="48" />
+        <img src=https://raw.githubusercontent.com/Tobee1406/Tobee1406/main/img/linkedin.png width="48" height="48" />
       </a>
       <br>Linkedin
+    <td align="center" width="96">
+      <a href="https://www.twitch.tv/tobee_gg">
+        <img src=https://raw.githubusercontent.com/Tobee1406/Tobee1406/main/img/TwitchLogo.png width="48" height="48" />
+      </a>
+      <br>Twitch
     </td>
   </tr>
 </table>
