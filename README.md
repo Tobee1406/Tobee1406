@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Credits
+## Links
 
 <h2 align="center"> Tobee <img src=https://raw.githubusercontent.com/Tobee1406/Tobee1406/main/img/Tobee_GG_logo.png width="25" height="25" /> </h2>
 <div align=center>
