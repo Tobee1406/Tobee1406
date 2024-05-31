@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Credits
+
+<h2 align="center"> Tobee :octocat: </h2>
+<div align=center>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://github.com/Tobee1406">
+        <img src=https://raw.githubusercontent.com/aleff-github/aleff-github/main/img/github.png width="48" height="48" />
+      </a>
+      <br>Github
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.linkedin.com/in/tobee1406/">
+        <img src=https://raw.githubusercontent.com/aleff-github/aleff-github/main/img/linkedin.png width="48" height="48" />
+      </a>
+      <br>Linkedin
+    </td>
+  </tr>
+</table>
+</div>
