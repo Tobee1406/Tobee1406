@@ -18,7 +18,7 @@
       <a href="https://www.linkedin.com/in/tobee1406/">
         <img src=https://raw.githubusercontent.com/Tobee1406/Tobee1406/main/img/linkedin.png width="48" height="48" />
       </a>
-      <br>Linkedin
+      <br>LinkedIn
     <td align="center" width="96">
       <a href="https://www.twitch.tv/tobee_gg">
         <img src=https://raw.githubusercontent.com/Tobee1406/Tobee1406/main/img/TwitchLogo.png width="48" height="48" />
