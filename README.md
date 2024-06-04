@@ -27,7 +27,7 @@
     </td>
     <td align="center" width="96">
       <a href="2beereview.wordpress.com">
-        <img src=https://raw.githubusercontent.com/Tobee1406/Tobee1406/main/img/WordpressLogo.png width="48" height="48" />
+        <img src=https://raw.githubusercontent.com/Tobee1406/Tobee1406/main/img/WordPressLogo.png width="48" height="48" />
       </a>
       <br>WordPress
     </td>
