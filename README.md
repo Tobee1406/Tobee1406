@@ -7,7 +7,7 @@
   <link href="/assets/css/style.css" type="text/css" rel="stylesheet">
 </head>
 
-#### Technical Skills: <!-- C#, EnergyPRO, Excel, Java, JSON, LeanHeat, MATLAB, Python, SQL, Unity -->
+#### Technical Skills:
 <div class="table_wrapper">
   <table style="table-layout: fixed ; width: 100%;">
     <tr>
@@ -36,6 +36,7 @@
       <td>SQL</td>
       <td>Word</td>
       <td>Unity</td>
+      <td>XD</td>
     </tr>
     <tr>
       <td align="center"><img src="/img/AbletonLogo.png" width=50 ></td>
@@ -63,6 +64,7 @@
       <td align="center"><img src="/img/SQLLogo.png" width=50></td>
       <td align="center"><img src="/img/WordLogo.png" width=50></td>
       <td align="center"><img src="/img/UnityLogo.svg" width=50></td>
+      <td align="center"><img src="/img/XdLogo.png" width=50></td>
     </tr>
    </table>
 </div>
