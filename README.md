@@ -101,7 +101,7 @@
 
 <div>
   <b style="color:black;">Took part in Science Talent Genius</b> (<I>2016-2017</i>)
-  <img src="/assets/img/ScienceTalent.svg" width=40>
+  <img src="/img/ScienceTalent.svg" width=40>
 </div>
 
 - Teamwork
