@@ -133,7 +133,7 @@
 ## Projects
 **Blender:**
 
-- Black Hole
+- [Black Hole](https://github.com/Tobee1406/Blender-Black-Hole.git)
 - Ocean
 - Planet
 - Star Wars
@@ -148,12 +148,11 @@
 - [Image Grabber](https://github.com/Tobee1406/Python/tree/main/Codes/ImageGrabber#image-grabber)
 
 **Raspberry Pi:**
-
-- Pico (W) BadUSB [Soon]
+- [Pico Projects](https://github.com/Tobee1406/Pico-Projects.git)
 
 **Unity:**
 
-- Cyber Security Game
+- [Cyber Security Game](https://github.com/Tobee1406/Cyber-Security-Game.git)
 - Nightmare Game
 - [Simple Waypoint Script](https://github.com/Tobee1406/Simple-Waypoint-Script.git)
 - The Lighthouse Keeper
