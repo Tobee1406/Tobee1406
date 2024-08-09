@@ -145,7 +145,12 @@
 - [Awesome Yandex Dorks](https://github.com/Tobee1406/Awesome-Yandex-Dorks.git)
 
 **Python:**
+- [Download From YouTube](https://github.com/Tobee1406/Python/tree/main/Codes/Download%20From%20Youtube)
+- [Guitar Tuner](https://github.com/Tobee1406/Python/tree/main/Codes/Guitar%20Tuner)
+- [Hangman Game](https://github.com/Tobee1406/Python/tree/main/Codes/Hangman%20Game)
 - [Image Grabber](https://github.com/Tobee1406/Python/tree/main/Codes/ImageGrabber#image-grabber)
+- [Object Detection](https://github.com/Tobee1406/Python/tree/main/Codes/Object%20Detection)
+- [Snake Game](https://github.com/Tobee1406/Python/tree/main/Codes/Snake%20Game)
 
 **Raspberry Pi:**
 - [Raspberry Pi](https://github.com/Tobee1406/Raspberry-Pi.git)
