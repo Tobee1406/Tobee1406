@@ -33,6 +33,7 @@
       <td>PowerPoint</td>
       <td>Premiere Pro</td>
       <td>Python</td>
+      <td>R</td>
       <td>SQL</td>
       <td>Word</td>
       <td>Unity</td>
@@ -61,6 +62,7 @@
       <td align="center"><img src="/img/PowerpointLogo.png" width=50></td>
       <td align="center"><img src="/img/PremiereProLogo.png" width=50></td>
       <td align="center"><img src="/img/PythonLogo.png" width=50></td>
+      <td align="center"><img src="/img/RLogo.svg" width=50></td>
       <td align="center"><img src="/img/SQLLogo.png" width=50></td>
       <td align="center"><img src="/img/WordLogo.png" width=50></td>
       <td align="center"><img src="/img/UnityLogo.svg" width=50></td>
